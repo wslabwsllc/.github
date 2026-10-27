@@ -43,22 +43,22 @@ We back it with CMMI Level 3 (Development and Services), ISO 9001 and ISO 20000 
 
 ## What We Do
 
-| **Modernize | Engineer & Secure | Deliver & Advise** |
+| **Modernize** | **Engineer & Secure** | **Deliver & Advise** | 
 |---|---|---|
-| **Cloud & Infrastructure Modernization** | **Data Engineering & Data Science** | **Agile Process Implementation** |
-| **Low Code / No Code & Custom Development** | **Systems Engineering** | **Program Management** |
-| **Scanning & Digitization** | **Cybersecurity** | **CIO Technical Advisory Support** |
+| Cloud & Infrastructure Modernization | Data Engineering & Data Science | Agile Process Implementation |
+| Low Code / No Code & Custom Development | Systems Engineering | Program Management |
+| Scanning & Digitization | Cybersecurity | CIO Technical Advisory Support |
 
 We also support **Section 508 accessibility and OMB M-24-08 compliance**, network operations, and enterprise architecture.
 
 ## Quality You Can Verify
 
-| Certification | Scope | Held since |
+| Certification | Scope | Held Since |
 |---|---|---|
 | CMMI-DEV Maturity Level 3 | Product development and engineering | 2018 |
 | CMMI-SVC Maturity Level 3 | Service establishment and delivery | 2018 |
-| ISO 9001:2015 | Quality Management System | — |
-| ISO/IEC 20000 | IT Service Management System | — |
+| ISO 9001:2015 | Quality Management System | 2017 |
+| ISO/IEC 20000 | IT Service Management System | 2017 |
 
 ## Contract Vehicles
 
@@ -66,14 +66,14 @@ We also support **Section 508 accessibility and OMB M-24-08 compliance**, networ
 | Vehicle | Type | Details |
 |---|---|---|
 | **NASA SEWP VI** | GWAC | Category B `80TECH26D1936` · Category C `80TECH26D0837` · [Ordering guide](https://www.wsllc.com/contract-vehicles/) |
-| **GSA Multiple Award Schedule (MAS) – IT** | IDIQ (formerly Schedule 70) | Federal, state and local ordering |
-| **OASIS+VO and OASIS+SB** | Best-in-class IDIQ | Professional and technical services |
+| **GSA Multiple Award Schedule (MAS) – IT** | IDIQ | Federal, State and Local Ordering |
+| **OASIS+VO and OASIS+SB** | Best-in-class IDIQ | Technical & Engineering | Management & Advisory |
 | **FAA eFAST** | Master Ordering Agreement | FAA small-business professional and support services |
 
 As a certified **SDVOSB**, we also compete for SDVOSB and VOSB set-aside opportunities.
 
 <details>
-<summary><b>NAICS codes</b></summary>
+<summary><b>NAICS Codes</b></summary>
 
 | Code | Description |
 |---|---|
@@ -93,12 +93,7 @@ As a certified **SDVOSB**, we also compete for SDVOSB and VOSB set-aside opportu
 
 ## Our Clients
 
-| Federal | | |
-|---|---|---|
-| U.S. Patent and Trademark Office | National Oceanic and Atmospheric Administration | Department of the Treasury |
-| Department of Housing and Urban Development | Food and Drug Administration | Small Business Administration |
-| Federal Housing Finance Agency | Federal Aviation Administration | U.S. Census Bureau |
-| Ginnie Mae | Office of Personnel Management | U.S. Coast Guard |
+U.S. Patent and Trademark Office | National Oceanic and Atmospheric Administration | Department of the Treasury | Department of Housing and Urban Development | Food and Drug Administration | Small Business Administration | Federal Housing Finance Agency | Federal Aviation Administration | U.S. Census Bureau | Ginnie Mae | Office of Personnel Management | U.S. Coast Guard | U.S Citizenship and Immigration Services | Department of Justice
 
 **State & local:** Washington Suburban Sanitary Commission
 
@@ -106,7 +101,7 @@ As a certified **SDVOSB**, we also compete for SDVOSB and VOSB set-aside opportu
 
 Have a project or opportunity in mind? We'd welcome the chance to discuss effective solutions for your agency's needs.
 
-| Contact | Shueyb Ali |
+| President | Shueyb Ali |
 |---|---|
 | **Email** | [bd@wsllc.com](mailto:bd@wsllc.com?subject=Inquiry%20via%20GitHub) |
 | **Phone** | 703.647.3751 |
