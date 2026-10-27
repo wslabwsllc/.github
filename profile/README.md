@@ -21,7 +21,6 @@
   <img alt="CMMI-SVC Maturity Level 3" src="https://img.shields.io/badge/CMMI--SVC-Level_3-1f6feb?style=flat-square">
   <img alt="ISO 9001:2015 certified" src="https://img.shields.io/badge/ISO-9001%3A2015-2da44e?style=flat-square">
   <img alt="ISO/IEC 20000 certified" src="https://img.shields.io/badge/ISO%2FIEC-20000-2da44e?style=flat-square">
-  <img alt="NASA SEWP VI contract holder" src="https://img.shields.io/badge/NASA-SEWP_VI-BF0A30?style=flat-square">
 </p>
 
 <p align="center">
