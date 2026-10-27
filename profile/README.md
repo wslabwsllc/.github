@@ -101,10 +101,9 @@ U.S. Patent and Trademark Office | National Oceanic and Atmospheric Administrati
 
 Have a project or opportunity in mind? We'd welcome the chance to discuss effective solutions for your agency's needs.
 
-| President | Shueyb Ali |
-|---|---|
+| **Business Development Contact** | Antonia Maistros |
+|:---|:---|
 | **Email** | [bd@wsllc.com](mailto:bd@wsllc.com?subject=Inquiry%20via%20GitHub) |
-| **Phone** | 703.647.3751 |
 | **Address** | 5680 King Centre Dr, Suite 600, Alexandria, VA 22315 |
 
 <p>
