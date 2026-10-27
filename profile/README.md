@@ -34,7 +34,7 @@
 
 ---
 
-## About us
+## About Us
 
 World Services LLC delivers information management and information technology services to government and commercial clients.
 Our approach is proactive, customer-centric and transparent, built on industry best practice and continuous process improvement.
@@ -42,9 +42,9 @@ We back it with CMMI Level 3 (Development and Services), ISO 9001 and ISO 20000 
 
 > **Mission:** To be recognized as a global leader in delivering innovative, accessible, and sustainable solutions at a competitive price, while fostering growth and prosperity for our people and communities.
 
-## What we do
+## What We Do
 
-| Modernize | Engineer & secure | Deliver & advise |
+| **Modernize | Engineer & Secure | Deliver & Advise** |
 |---|---|---|
 | **Cloud & Infrastructure Modernization** | **Data Engineering & Data Science** | **Agile Process Implementation** |
 | **Low Code / No Code & Custom Development** | **Systems Engineering** | **Program Management** |
@@ -52,7 +52,7 @@ We back it with CMMI Level 3 (Development and Services), ISO 9001 and ISO 20000 
 
 We also support **Section 508 accessibility and OMB M-24-08 compliance**, network operations, and enterprise architecture.
 
-## Quality you can verify
+## Quality You Can Verify
 
 | Certification | Scope | Held since |
 |---|---|---|
@@ -61,14 +61,14 @@ We also support **Section 508 accessibility and OMB M-24-08 compliance**, networ
 | ISO 9001:2015 | Quality Management System | — |
 | ISO/IEC 20000 | IT Service Management System | — |
 
-## Contract vehicles
+## Contract Vehicles
 
 <!-- CONFIRM (BD): OASIS+ domains/pools, and whether GSA MAS SINs should be listed. -->
 | Vehicle | Type | Details |
 |---|---|---|
 | **NASA SEWP VI** | GWAC | Category B `80TECH26D1936` · Category C `80TECH26D0837` · [Ordering guide](https://www.wsllc.com/contract-vehicles/) |
 | **GSA Multiple Award Schedule (MAS) – IT** | IDIQ (formerly Schedule 70) | Federal, state and local ordering |
-| **OASIS+** | Best-in-class IDIQ | Professional and technical services |
+| **OASIS+VO and OASIS+SB** | Best-in-class IDIQ | Professional and technical services |
 | **FAA eFAST** | Master Ordering Agreement | FAA small-business professional and support services |
 
 As a certified **SDVOSB**, we also compete for SDVOSB and VOSB set-aside opportunities.
@@ -92,7 +92,7 @@ As a certified **SDVOSB**, we also compete for SDVOSB and VOSB set-aside opportu
 
 </details>
 
-## Who we've supported
+## Our Clients
 
 | Federal | | |
 |---|---|---|
@@ -103,11 +103,11 @@ As a certified **SDVOSB**, we also compete for SDVOSB and VOSB set-aside opportu
 
 **State & local:** Washington Suburban Sanitary Commission
 
-## Get in touch
+## Get In Touch
 
 Have a project or opportunity in mind? We'd welcome the chance to discuss effective solutions for your agency's needs.
 
-| Contact | |
+| Contact | Shueyb Ali |
 |---|---|
 | **Email** | [bd@wsllc.com](mailto:bd@wsllc.com?subject=Inquiry%20via%20GitHub) |
 | **Phone** | 703.647.3751 |
